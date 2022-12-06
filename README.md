@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 
-* 😄 I'm Conrado a student at the Department of Physics of the Ponta Grossa State University.
+* 😄 I'm Conrado a Master's student in the Graduate Program in Science/Physics.
 
 * 📚 I was part of the Programa Institucional de Bolsas de Iniciação Científica offered by CNPq in the area of ​​Dynamic Systems with emphasis on the [formation of chimera states in networks](https://www.researchgate.net/profile/Conrado-Bittencourt/publication/340363759_Occurrence_of_chimera_states_in_linear_parts_systems/links/5e850d3892851c2f52743157/Occurrence-of-chimera-states-in-linear-parts-systems.pdf).
 
